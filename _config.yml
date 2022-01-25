@@ -1,7 +1,7 @@
 highlighter: rouge
 permalink: /blog/:year/:month/:day/:title/
 environment: prod
-url: "elee.page"  # Sitemap base URL.
+# url: "elee.page"  # Sitemap base URL.
 plugins:
   - jekyll-scholar
   - jekyll-sitemap
