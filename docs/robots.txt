@@ -1,1 +1,1 @@
-Sitemap: elee.page/sitemap.xml
+Sitemap: /sitemap.xml
